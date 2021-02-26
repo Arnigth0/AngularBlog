@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\e2e\\src",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\admin\\shared\\services",
+    "\\src\\app\\shared\\components",
+    "\\src\\app\\shared\\components\\main-layout",
+    "\\src\\app\\shared\\components\\post",
+    "\\src\\assets",
+    "\\src\\environments"
+  ],
+  "SelectedNode": "\\src\\environments\\interface.ts",
+  "PreviewInSolutionExplorer": false
+}
